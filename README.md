@@ -7,5 +7,5 @@ This product includes Intellectual Property from European National Mapping and C
 # how to build this
 1. Download the EuroGlobalMap Shapefile data package and extract it into src.
 2. `yarn`
-3. `rake build`
+3. `rake build | split -l 50000`
 
