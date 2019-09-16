@@ -1,0 +1,13 @@
+{
+  "name": "geojsons-euroglobalmap",
+  "version": "1.0.0",
+  "main": "filter.js",
+  "repository": "git@github.com:optgeo/geojsons-euroglobalmap",
+  "author": "Hidenori Fujimura <hfu@users.noreply.github.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "config": "^3.2.2",
+    "hjson": "^3.1.2",
+    "json-text-sequence": "^0.1.1"
+  }
+}
