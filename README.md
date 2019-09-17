@@ -21,9 +21,16 @@ Therefore, if you want to see the data, please execute `cat xa?`.
 ## attributes dropped
 - inspireId
 - beginLifeS
-- HY
+- SHN0
+- SHN1
+- SHN2
+- SHN3
+- SHN4
 - HydroID
-- FStationId
+- PopulatedPlaceID
+- FerryID
+- FStationID
+- RStationID
 - Shape_Area
 - SHAPE_Leng
 - Shape_Leng
